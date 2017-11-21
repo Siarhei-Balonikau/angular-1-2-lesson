@@ -7,8 +7,8 @@
 
 Если у компонента есть зависимость от других, то внутри это указывал через комментарий. 
 Например в '/shared/search' есть:
-// import/shared/button/
-// import/shared/input-text/
+- // import/shared/button/
+- // import/shared/input-text/
 
 
 Интерфейс для 11 задачи находится в 
