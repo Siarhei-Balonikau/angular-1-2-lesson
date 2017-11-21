@@ -2,7 +2,7 @@
 
 Созданная структура лежит в /app/
 - папка /shared/ содержит переиспользуемые компоненты (button, field, course, etc.)
-- папка /components/ включает в структурные компоненты, которые не переиспользуются (pages, header, footer, etc.) 
+- папка /components/ включает в структурные компоненты (pages, header, footer, etc.) 
 
 
 
